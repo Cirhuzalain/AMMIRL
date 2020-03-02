@@ -14,5 +14,5 @@ Taught by [Matteo Pirotta](https://teopir.github.io/) and supported by [Florian 
 
 You can run the notebook using the google colab link below
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/){:target="_blank"}
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
